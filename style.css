@@ -18,8 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-.centered-main-page-title { text-align: center;
-}
+
+    .centered-main-page-title { 
+        text-align: center;
+    }
+    
 }
 .centered-main-page-element {
     display: block;
@@ -43,7 +46,7 @@ h3 {
     list-style: none;
 }
 input,
-button{
+button {
     outline: none;
 }
 button {
